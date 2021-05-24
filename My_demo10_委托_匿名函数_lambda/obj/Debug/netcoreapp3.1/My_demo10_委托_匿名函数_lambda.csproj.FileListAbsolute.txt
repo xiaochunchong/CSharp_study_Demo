@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\bin\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.exe
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\bin\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.deps.json
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\bin\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.runtimeconfig.json
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\bin\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\bin\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.dll
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\bin\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.pdb
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\obj\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\obj\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\obj\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.dll
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\obj\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.pdb
+C:\Users\Administrator\source\repos\My_demo01\My_demo10_委托_匿名函数_lambda\obj\Debug\netcoreapp3.1\My_demo10_委托_匿名函数_lambda.csprojAssemblyReference.cache

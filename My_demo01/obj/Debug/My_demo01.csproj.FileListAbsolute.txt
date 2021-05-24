@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\My_demo01\My_demo01\bin\Debug\My_demo01.exe.config
+C:\Users\Administrator\source\repos\My_demo01\My_demo01\bin\Debug\My_demo01.exe
+C:\Users\Administrator\source\repos\My_demo01\My_demo01\bin\Debug\My_demo01.pdb
+C:\Users\Administrator\source\repos\My_demo01\My_demo01\obj\Debug\My_demo01.exe
+C:\Users\Administrator\source\repos\My_demo01\My_demo01\obj\Debug\My_demo01.pdb
+C:\Users\Administrator\source\repos\My_demo01\My_demo01\obj\Debug\My_demo01.csprojAssemblyReference.cache

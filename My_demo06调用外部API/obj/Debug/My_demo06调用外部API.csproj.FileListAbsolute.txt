@@ -1,0 +1,6 @@
+C:\Users\Administrator\source\repos\My_demo01\My_demo06调用外部API\bin\Debug\My_demo06调用外部API.exe.config
+C:\Users\Administrator\source\repos\My_demo01\My_demo06调用外部API\bin\Debug\My_demo06调用外部API.exe
+C:\Users\Administrator\source\repos\My_demo01\My_demo06调用外部API\bin\Debug\My_demo06调用外部API.pdb
+C:\Users\Administrator\source\repos\My_demo01\My_demo06调用外部API\obj\Debug\My_demo06调用外部API.exe
+C:\Users\Administrator\source\repos\My_demo01\My_demo06调用外部API\obj\Debug\My_demo06调用外部API.pdb
+C:\Users\Administrator\source\repos\My_demo01\My_demo06调用外部API\obj\Debug\My_demo06调用外部API.csprojAssemblyReference.cache

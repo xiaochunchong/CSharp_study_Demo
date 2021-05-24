@@ -1,0 +1,10 @@
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\bin\Debug\netcoreapp3.1\My_demo07_流.exe
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\bin\Debug\netcoreapp3.1\My_demo07_流.deps.json
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\bin\Debug\netcoreapp3.1\My_demo07_流.runtimeconfig.json
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\bin\Debug\netcoreapp3.1\My_demo07_流.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\bin\Debug\netcoreapp3.1\My_demo07_流.dll
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\bin\Debug\netcoreapp3.1\My_demo07_流.pdb
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\obj\Debug\netcoreapp3.1\My_demo07_流.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\obj\Debug\netcoreapp3.1\My_demo07_流.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\obj\Debug\netcoreapp3.1\My_demo07_流.dll
+C:\Users\Administrator\source\repos\My_demo01\My_demo07_流\obj\Debug\netcoreapp3.1\My_demo07_流.pdb
